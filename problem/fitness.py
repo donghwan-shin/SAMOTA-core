@@ -2,7 +2,7 @@
 This function defines the fitness function to be used for evaluating the individuals.
 """
 
-from structure.individual import Individual
+from problem.individual import Individual
 
 
 def fitness_function1(individual: Individual):

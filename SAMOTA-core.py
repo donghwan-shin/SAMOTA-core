@@ -1,6 +1,6 @@
-from structure.individual import Individual
-from structure.fitness import fitness_functions
-from structure.operators import generate_offspring, select
+from problem.individual import Individual
+from problem.fitness import fitness_functions
+from problem.operators import generate_offspring, select
 
 
 def initialize_population(pop_size: int):

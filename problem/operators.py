@@ -1,4 +1,4 @@
-from structure.individual import Individual
+from problem.individual import Individual
 import random
 
 
